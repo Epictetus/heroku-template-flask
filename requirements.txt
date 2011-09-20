@@ -1,0 +1,9 @@
+Flask==0.7.2
+Flask-SQLAlchemy==0.15
+Jinja2==2.6
+SQLAlchemy==0.7.2
+Werkzeug==0.7.1
+gunicorn==0.13.3
+psycopg2==2.4.2
+simplejson==2.2.1
+wsgiref==0.1.2
